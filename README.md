@@ -1,4 +1,3 @@
-## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20MY%20WORLD&fontSize=90)
 
 <!--
